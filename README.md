@@ -1,4 +1,7 @@
-![alexandrepd's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexandrepd&show_icons=true&theme=blue-green)
+![alexandrepd's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexandrepd&&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=blue-green)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexandrepd)
+
 
 - 👋 Hi, I’m @alexandrepd
 - 👀 I’m interested in ...
