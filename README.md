@@ -9,7 +9,7 @@
 
 ## 👋 About Me
 
-Highly skilled and solution-focused IT professional with over **17 years of experience** across finance, retail, and technology sectors. Specialized in designing and developing scalable, maintainable fullstack solutions using .NET (.NET Core, ASP.NET MVC, Web API), Blazor, Razor, React and Flutter. Experienced in database design and optimization (SQL Server, MySQL, Firebase, MongoDB), Clean Architecture, SOLID principles, and agile methodologies (Scrum, LeSS). Proven ability to lead modernization initiatives, reduce maintenance costs, and enhance system performance.
+Highly skilled and solution-focused IT professional with over **17 years of experience** across finance, retail, and technology sectors. Specialized in designing and developing scalable, maintainable fullstack solutions using .NET (.NET Core, ASP.NET MVC, Web API), Blazor, Razor, React, Flutter, and more. Proficient in database design and optimization with SQL Server, MySQL, Firebase, and MongoDB.
 
 **Technical Stack:**  
 C#, .NET Framework/Core, Blazor, Razor, React, TypeScript, JavaScript, Flutter, Dart, GraphQL, RabbitMQ, SQL Server, Azure, GCP, Visual Studio, VS Code, Azure DevOps, Git, Swagger/OpenAPI.
@@ -119,3 +119,22 @@ Impacta Tecnologia, São Paulo – 2011–2014
 - Location: Amora, Portugal
 
 ---
+
+## 📜 Certifications
+
+- SAP ABAP Certificate
+- Develop an ASP.NET Core web app that consumes an API (Microsoft)
+- Agile (Scrum) Foundational
+- C# with Microsoft ASP.NET Core MVC
+- JSON RESTful API
+- Object-Oriented Programming
+- Git & Github
+- Bootstrap
+- ASP.NET Web API
+- CSS
+- ASP.NET Razor & Blazor
+- HTML & Angular
+- Rest APIs
+- Flutter
+- .NET Core, MVC, Razor, SOLID
+- React (Intermediate)
