@@ -21,36 +21,68 @@ Leadership, problem-solving, mentoring, team collaboration, and delivering busin
 
 ## 🏆 Badges & Technologies
 
+### 🖥️ Languages
 [![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)]()
-[![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=.net&logoColor=white)]()
-[![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=flat&logo=.net)]()
-[![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)]()
-[![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)]()
+[![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)]()
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)]()
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)]()
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)]()
+[![Delphi](https://img.shields.io/badge/Delphi-EE1F35?style=flat&logo=delphi&logoColor=white)]()
+[![ABAP](https://img.shields.io/badge/ABAP-0FAAFF?style=flat&logo=sap&logoColor=white)]()
+
+### 🌐 Frameworks & Web
+[![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=.net&logoColor=white)]()
+[![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=flat&logo=.net&logoColor=white)]()
+[![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)]()
+[![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)]()
+[![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)]()
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)]()
+[![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white)]()
+
+### 🗄️ Databases
 [![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)]()
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)]()
 [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)]()
 [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)]()
+
+### ☁️ Cloud & DevOps
 [![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)]()
 [![Azure Fundamentals](https://img.shields.io/badge/AZ--900%20Azure%20Fundamentals-0078D4?style=flat&logo=microsoft-azure&logoColor=white)]()
 [![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=google-cloud&logoColor=white)]()
+[![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)]()
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)]()
+[![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=flat&logo=azure-devops&logoColor=white)]()
 [![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)]()
-[![DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=flat&logo=azure-devops&logoColor=white)]()
+
+### 📦 Messaging & Tools
+[![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white)]()
+[![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)]()
+[![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)]()
 [![freeCodeCamp](https://img.shields.io/badge/freeCodeCamp-0A0A23?style=flat&logo=freecodecamp&logoColor=white)]()
 
 ---
 
 ## 💼 Work Experience
 
-### 2023–Current | Senior Software Engineer – GBT Solutions, LDA (Pluxee/Sodexo Portugal, Lisboa)
+### Sep/2023–Present | Senior Software Engineer – GBT Solutions, LDA (Pluxee/Sodexo Portugal, Lisboa) · Contract · Remote
 - Led migration of REST API from .NET Framework 4.8 to .NET Core 7.0, refactored with SOLID, boosting efficiency and maintainability.
 - Refactored Razor application for performance and scalability.
 - Developed user-friendly back-office portal (Blazor + SQL Server), increasing CX team productivity by 30%.
 - Supported IT team by resolving legacy issues, reducing downtime.
+- Created tailored queries, procedures and reports in SQL Server and MySQL for data-driven decision-making.
 - Migrated external PHP portals to React, aligning with group standards.
 - **Results:** Reduced maintenance costs, improved reliability, enhanced user experience.
 
-### Jun/2022–Feb/2023 | Career Break – São Paulo, Brazil
+### Mar/2023–Aug/2023 | Senior Software Engineer – HN Services Portugal (Pluxee/Sodexo Portugal, Lisboa) · Contract · Remote
+- Same project scope as above — initial contract before transitioning to GBT Solutions.
+- Spearheaded migration of REST API from .NET Framework 4.8 to .NET Core 7.0 with SOLID refactoring.
+- Designed and developed Blazor backoffice portal for the CX team.
+- **Results:** Improved system stability and team productivity.
+
+### Nov/2022–Jan/2023 | C# Consultant – Alter Solutions Portugal (Lisboa) · Hybrid
+- C# consultancy engagement in Lisbon.
+
+### Mar/2022–Nov/2022 | Career Break – São Paulo, Brazil
 - Personal time taken between roles for rest and transition.
 
 ### 2020–2022 | Flutter Developer – Fliper (Fintech, São Paulo)
@@ -72,10 +104,13 @@ Leadership, problem-solving, mentoring, team collaboration, and delivering busin
 - Developed ETL pipelines (SSIS), custom reports (SSRS).
 - **Results:** Improved business processes and decision-making.
 
-### 2010–2014 | System Analyst – Luxottica (São Paulo)
+### Jul/2010–Nov/2014 | System Analyst – Luxottica (São Paulo)
 - Maintained LINX ERP, enabled B2B integrations (FTP/sFTP).
 - Supported SAP implementation, coded ABAP modules.
 - **Results:** Improved data integration and SAP rollout.
+
+### May/2014 | Volunteer – OneSight (Cuernavaca, Mexico)
+- Project support providing vision screening services to disadvantaged communities, particularly children in rural and lower socio-economic areas.
 
 ### 2007–2010 | System Analyst – Focus Têxtil (São Paulo)
 - Developed and maintained ERP (Visual FoxPro), mini-ERP (C#/WCF).
@@ -104,6 +139,8 @@ Impacta Tecnologia, São Paulo – 2011–2014
 **Web:** ASP.NET MVC/Core/Web API/Razor/Blazor, React, Flutter, WCF, Classic ASP, HTML, CSS, Bootstrap, Angular  
 **Databases:** SQL Server, MySQL, MongoDB, Firebase  
 **Cloud & DevOps:** Azure, GCP, Azure DevOps, Git, Docker  
+**Messaging:** RabbitMQ  
+**Reporting & ETL:** SSIS, SSRS  
 **Testing:** Unit, Integration, Widget, Xunit  
 **Documentation:** Swagger/OpenAPI  
 **Other Tools:** VSCode, Visual Studio, Bitbucket, Postman, Jira, SVN
