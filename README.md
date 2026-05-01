@@ -9,7 +9,7 @@
 
 ## 👋 About Me
 
-Highly skilled and solution-focused IT professional with over **17 years of experience** across finance, retail, and technology sectors. Specialized in designing and developing scalable, maintainable fullstack solutions using .NET (.NET Core, ASP.NET MVC, Web API), Blazor, Razor, React, Flutter, and more. Proficient in database design and optimization with SQL Server, MySQL, Firebase, and MongoDB.
+Highly skilled and solution-focused IT professional with over **19 years of experience** across finance, retail, and technology sectors. Specialized in designing and developing scalable, maintainable fullstack solutions using .NET (.NET Core, ASP.NET MVC, Web API), Blazor, Razor, React, Flutter, and more. Proficient in database design and optimization with SQL Server, MySQL, Firebase, and MongoDB. Strong background in **Clean Architecture**, **SOLID principles**, and agile methodologies (**Scrum**, **LeSS**).
 
 **Technical Stack:**  
 C#, .NET Framework/Core, Blazor, Razor, React, TypeScript, JavaScript, Flutter, Dart, GraphQL, RabbitMQ, SQL Server, Azure, GCP, Visual Studio, VS Code, Azure DevOps, Git, Swagger/OpenAPI.
@@ -32,9 +32,11 @@ Leadership, problem-solving, mentoring, team collaboration, and delivering busin
 [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)]()
 [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)]()
 [![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)]()
+[![Azure Fundamentals](https://img.shields.io/badge/AZ--900%20Azure%20Fundamentals-0078D4?style=flat&logo=microsoft-azure&logoColor=white)]()
 [![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=google-cloud&logoColor=white)]()
 [![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)]()
 [![DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=flat&logo=azure-devops&logoColor=white)]()
+[![freeCodeCamp](https://img.shields.io/badge/freeCodeCamp-0A0A23?style=flat&logo=freecodecamp&logoColor=white)]()
 
 ---
 
@@ -47,6 +49,9 @@ Leadership, problem-solving, mentoring, team collaboration, and delivering busin
 - Supported IT team by resolving legacy issues, reducing downtime.
 - Migrated external PHP portals to React, aligning with group standards.
 - **Results:** Reduced maintenance costs, improved reliability, enhanced user experience.
+
+### Jun/2022–Feb/2023 | Career Break – São Paulo, Brazil
+- Personal time taken between roles for rest and transition.
 
 ### 2020–2022 | Flutter Developer – Fliper (Fintech, São Paulo)
 - Developed & maintained mobile app using Flutter, Clean Architecture.
@@ -96,7 +101,7 @@ Impacta Tecnologia, São Paulo – 2011–2014
 ## 🛠️ Skills Overview
 
 **Programming:** C#, Dart, TypeScript, JavaScript, PHP, Visual FoxPro, ABAP, Delphi, Pascal  
-**Web:** ASP.NET MVC/Core/Web API/Razor/Blazor, React, Flutter, HTML, CSS, Bootstrap, Angular  
+**Web:** ASP.NET MVC/Core/Web API/Razor/Blazor, React, Flutter, WCF, Classic ASP, HTML, CSS, Bootstrap, Angular  
 **Databases:** SQL Server, MySQL, MongoDB, Firebase  
 **Cloud & DevOps:** Azure, GCP, Azure DevOps, Git, Docker  
 **Testing:** Unit, Integration, Widget, Xunit  
@@ -122,8 +127,10 @@ Impacta Tecnologia, São Paulo – 2011–2014
 
 ## 📜 Certifications
 
+- **Microsoft Certified: Azure Fundamentals** (Microsoft, Sep 2024)
+- **Foundational C# with Microsoft** (freeCodeCamp, Jan 2024)
+- Develop an ASP.NET Core web app that consumes an API (Microsoft, May 2024)
 - SAP ABAP Certificate
-- Develop an ASP.NET Core web app that consumes an API (Microsoft)
 - Agile (Scrum) Foundational
 - C# with Microsoft ASP.NET Core MVC
 - JSON RESTful API
